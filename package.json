@@ -21,7 +21,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/VascoJM/redesdesensores/issues"
-  },
+  },  
+  "homepage": "https://github.com/VascoJM/redesdesensores#readme"
   "dependencies": {
     "bcryptjs": "*",
     "body-parser": "*",
@@ -37,6 +38,5 @@
     "passport": "*",
     "passport-http": "*",
     "passport-local": "*"
-  },
-  "homepage": "https://github.com/VascoJM/redesdesensores#readme"
+  }
 }
