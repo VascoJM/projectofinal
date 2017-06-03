@@ -1,0 +1,26 @@
+{
+  "name": "projectofinal",
+  "version": "1.0.0",
+  "description": "CLOUD IOT - Projecto Redes e Segurança de Sensores",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VascoJM/redesdesensores.git"
+  },
+  "keywords": [
+    "Sensores",
+    "Redes",
+    "Segurança",
+    "Cloud",
+    "Servidor."
+  ],
+  "author": "Paulo Caria, Pedro Matos e Vasco Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VascoJM/redesdesensores/issues"
+  },
+  "homepage": "https://github.com/VascoJM/redesdesensores#readme"
+}
